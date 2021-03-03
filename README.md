@@ -17,6 +17,8 @@
 ## You can see this just for fun))
 
 - https://hennady95.github.io/simple-calculat/
+
+[![simple-calculat](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=simple-calculat)](https://hennady95.github.io/simple-calculat)
 <!--
 **Hennady95/Hennady95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
