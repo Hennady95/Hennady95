@@ -17,9 +17,9 @@
 ## You can see this just for fun))
 
 - https://hennady95.github.io/simple-calculat/
-
-[![simple-calculat](https://github.com/Hennady95/simple-calculat)](https://hennady95.github.io/simple-calculat/)
 <!--
+[![simple-calculat](https://github.com/Hennady95/simple-calculat)](https://hennady95.github.io/simple-calculat/)
+
 **Hennady95/Hennady95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
