@@ -13,6 +13,10 @@
 
 - **mail:** gena.trusevich@mail.ru
 - **Gmail** not for trash))
+
+## You can see this just for fun))
+
+-https://hennady95.github.io/simple-calculat/
 <!--
 **Hennady95/Hennady95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
