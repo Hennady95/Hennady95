@@ -3,6 +3,10 @@
 ## Codewars
 <img src='https://www.codewars.com/users/Hennady95/badges/large'>
 
+## GitHub
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
+
 ## Contacts
 
 - **mail:** gena.trusevich@mail.ru
