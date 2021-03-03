@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello I'm Hennady Trusevich 👋
 
+##Codewars
 <img src='https://www.codewars.com/users/Hennady95/badges/large'>
+
+
+
 <!--
 **Hennady95/Hennady95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
