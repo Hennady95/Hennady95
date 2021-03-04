@@ -17,6 +17,8 @@
 ## You can see this just for fun))
 
 - https://hennady95.github.io/simple-calculat/
+
+- https://hennady95.github.io/XO/
 <!--
 [![simple-calculat](https://github.com/Hennady95/simple-calculat)](https://hennady95.github.io/simple-calculat/)
 
