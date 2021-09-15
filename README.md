@@ -19,6 +19,20 @@
 - https://hennady95.github.io/simple-calculat/
 
 - https://hennady95.github.io/XO/
+
+- https://hennady95.github.io/Snake/
+
+- https://hennady95.github.io/Theyalow/
+
+## My first project
+
+- https://hennady95.github.io/konstruct/
+
+- https://hennady95.github.io/dashboard/ (terrible <head>)) )
+  
+## Adaptive design (React app)
+  
+  -https://github.com/Hennady95/meditation_react
 <!--
 [![simple-calculat](https://github.com/Hennady95/simple-calculat)](https://hennady95.github.io/simple-calculat/)
 
