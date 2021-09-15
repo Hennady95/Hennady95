@@ -32,7 +32,7 @@
   
 ## Adaptive design (React app)
   
-  -https://github.com/Hennady95/meditation_react
+  -https://hennady95.github.io/meditation_react/
 <!--
 [![simple-calculat](https://github.com/Hennady95/simple-calculat)](https://hennady95.github.io/simple-calculat/)
 
