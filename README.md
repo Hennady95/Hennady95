@@ -12,7 +12,7 @@
 ## Contacts
 
 - **mail:** gena.trusevich@mail.ru
-- **Gmail** not for trash))
+- **Gmail** hennady.trusevich@gmail.com
 
 ## You can see this just for fun))
 
