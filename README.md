@@ -32,11 +32,11 @@
   
 ## Adaptive design (React app)
   
-  -https://hennady95.github.io/meditation_react/
+  - https://hennady95.github.io/meditation_react/
   
 ## Project with Node JS server
   
-  -https://github.com/Hennady95/react_store
+  - https://github.com/Hennady95/react_store
 <!--
 [![simple-calculat](https://github.com/Hennady95/simple-calculat)](https://hennady95.github.io/simple-calculat/)
 
