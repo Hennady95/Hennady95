@@ -28,7 +28,7 @@
 
 - https://hennady95.github.io/konstruct/
 
-- https://hennady95.github.io/dashboard/ (terrible <head>)) )
+- https://hennady95.github.io/dashboard/ 
   
 ## Adaptive design (React app)
   
